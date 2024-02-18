@@ -3,5 +3,5 @@ package pavel
 import "fmt"
 
 func Pavel() {
-	fmt.println("In Pavel file in Pavel function in module gofirst")
+	fmt.Println("In Pavel file in Pavel function in module gofirst")
 }
